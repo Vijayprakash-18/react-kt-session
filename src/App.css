@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+/*  */
+.error{
+  color: red;
+}
+.loading{
+  color: rgb(255, 162, 0);
+}
+.success{
+  color: green;
+}
